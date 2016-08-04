@@ -9,9 +9,7 @@ public class HelloWorld extends Object {
     
     System.out.println("Hello World in PR !");
     
-    System.out.println("Hello World !");
-    System.out.println("Hello World !");
-    System.out.println("Hello World again !");
+    System.out.println("Test PR analysis !");
     }
 
 }
